@@ -1,0 +1,25 @@
+{
+    "dataDir_train": [""],
+    "dataDir_test": "",
+    "result_dir": "",
+
+    "targetLabels": ["HRD_state"],
+    "numPatientToUse" : "ALL",
+
+    "epochs": 200,
+    "batchSize": 4,
+     "num_classes":2,
+    "seed": 20,
+
+    "modelName": "attmil",
+    "extractFeature": "False",
+
+    "opt": "adam",
+    "lr": 1e-5,
+    "reg": 1e-5,
+    "gpuNo": 0,
+
+    "earlyStop":"True",
+    "minEpochToTrain":50,
+    "patience":20
+}
