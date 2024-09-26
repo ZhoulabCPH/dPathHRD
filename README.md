@@ -1,7 +1,7 @@
 # dPathHRD
 Code for 'Deep learning-based digital pathological prediction of homologous recombination deficiency and responsive outcomes to platinum chemotherapy in high-grade serous ovarian cancer'
 
-![flowchart](https://github.com/ZhoulabCPH/dPathHRD/Graphicalabstract.png)
+![flowchart](https://github.com/ZhoulabCPH/dPathHRD/blob/master/Graphicalabstract.png)
 
 ****
 ## Dataset 
